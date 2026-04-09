@@ -3,7 +3,7 @@ MCTS permutandis
 
 MCTS rearrangement planning code for Y. Labbé, S. Zagoruyko, I. Kalevatykh, I. Laptev, J. Carpentier, M. Aubry and J.Sivic, "Monte-Carlo Tree Search for Efficient Visually Guided Rearrangement Planning", IEEE Robotics and Automation Letters.
 
-[[arXiv](https://arxiv.org/abs/1904.10348)] [[Project Page](https://ylabbe.github.io/rearrangement-planning/index.html)] [[Video](https://youtu.be/vZ1B3JaL9Os)]
+[[arXiv](https://arxiv.org/abs/1904.10348)] [[Project Page](https://yannlabb.github.io/rearrangement-planning/index.html)] [[Video](https://youtu.be/vZ1B3JaL9Os)]
 
 This repository contains the C++ implementation of our MCTS rearrangement solver presented in the paper. It also contains an interface for solving problems from python, the python code of the baseline presented in the paper as well as code for evaluating your own method.
 
